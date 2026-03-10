@@ -1,14 +1,24 @@
-Projeto simples em Python que:
+ Análise de Números em Python
 
-- Recebe 6 números do usuário
-- Mostra a lista de números
-- Calcula maior e menor valor
-- Calcula a média
-- Mostra quantos números estão acima da média
-- Mostra quais números estão acima da média
+Projeto simples em Python que recebe números do usuário e realiza algumas análises.
 
-Projeto feito para prática de:
-- listas
-- loops
-- condicionais
-- lógica de programação
+ Funcionalidades
+
+- Receber números digitados pelo usuário
+- Mostrar a lista completa
+- Mostrar o maior número
+- Mostrar o menor número
+- Calcular a média dos números
+- Mostrar quantos números estão acima da média
+- Mostrar quais números estão acima da média
+
+ Conceitos praticados
+
+- Listas
+- Loops (`for`)
+- Condições (`if`)
+- Funções internas do Python (`max`, `min`, `sum`, `len`)
+
+ Tecnologias
+
+- Python
